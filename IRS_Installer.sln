@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IRS_Installer", "IRS_Installer\IRS_Installer.vdproj", "{C6E3164B-89A9-4EB2-AE09-6B0CA48CABE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6E3164B-89A9-4EB2-AE09-6B0CA48CABE1}.Debug|Default.ActiveCfg = Debug
+		{C6E3164B-89A9-4EB2-AE09-6B0CA48CABE1}.Debug|Default.Build.0 = Debug
+		{C6E3164B-89A9-4EB2-AE09-6B0CA48CABE1}.Release|Default.ActiveCfg = Release
+		{C6E3164B-89A9-4EB2-AE09-6B0CA48CABE1}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
